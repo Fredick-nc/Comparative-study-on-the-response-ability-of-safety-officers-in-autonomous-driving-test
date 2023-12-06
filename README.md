@@ -1,4 +1,5 @@
 # Comparative-study-on-the-response-ability-of-safety-officers-in-autonomous-driving-test
+(Completed in Dec/2021)
 
 In order to guide the automatic driving test safety officer (hereinafter referred to as the driver) to correctly control the automatic driving system to deal with various emergencies encountered in daily driving, a system for testing the driver's ability to reflect was developed to realize the test driver based on the monitoring of the reaction ability, the model and classification combination were used to rank all the test drivers through the collected data, reflecting the general reaction ability of each driver (the shorter the reaction time, the higher the ranking).
 
